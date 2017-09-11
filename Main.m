@@ -2,4 +2,5 @@
 load('data0724');
 
 %%
-DataToClass
+d=DataToClass(data0724);
+

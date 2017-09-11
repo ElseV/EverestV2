@@ -3,7 +3,7 @@ classdef Movement
     %   Detailed explanation goes here
     
     properties
-        Type
+        Type % Aurora or Xsens
         Expert
         Position
         Orientation
